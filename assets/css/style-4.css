@@ -83,8 +83,8 @@ Version: 1.0
     display: inline-block;
     font-weight: 600;
 	cursor: pointer;
-    font-size: 18px;
-	border-radius: 30px;
+    font-size: 16px;
+	border-radius: 50px;
 }
 .appbox-btn2,
 .appbox-btn:hover {
@@ -98,7 +98,7 @@ Version: 1.0
 }
 .appbox-btn3 {
     color: #ffffff;
-    border: 1px solid #3A89E9;
+    border: 5px solid #3A89E9;
 	background: #3A89E9; /* Old browsers */
 	background: -moz-linear-gradient(top, #3A89E9 0%, #3A89E9 18%, #3A89E9 67%, #3A89E9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, #3A89E9 0%,#3A89E9 18%,#3A89E9 67%,#3A89E9 100%); /* Chrome10-25,Safari5.1-6 */
@@ -553,10 +553,10 @@ Version: 1.0
 }
 .single-download-img {
     position: absolute;
-    top: 100px;
+    top: 0px;
     right: 0;
     width: 50%;
-    bottom: 30px;
+    bottom: 0px;
     margin: auto;
     background-image: url(../img/appbox-img-4/download.png);
     background-size: cover;
